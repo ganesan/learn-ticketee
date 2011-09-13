@@ -29,6 +29,7 @@ group :test do
   gem 'cucumber-rails'
   gem 'capybara'
   gem 'database_cleaner'
+  gem 'factory_girl'
 end
 
 #https://github.com/RailsApps/railsapps.github.com/wiki/rails-3-1-example-gemfile
